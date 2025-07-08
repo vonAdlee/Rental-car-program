@@ -9,13 +9,6 @@ import java.io.PrintWriter;
 import java.io.FileOutputStream;
 
 
-//-------------------------------------------------------------------------------------------
-// Assignment 2 COMP 249
-// Written by: Anis Alouache 
-// Student ID: 40273373
-//-------------------------------------------------------------------------------------------
-
-
 /**
  	*This program is designed to manage the payroll of a company called "iDroid Solution".
  	
